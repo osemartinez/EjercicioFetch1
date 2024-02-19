@@ -1,0 +1,25 @@
+
+.card {
+    border: 2px solid #ccc; 
+    border-radius: 15px; 
+    padding: 20px; 
+    background-color: #89bdf1; 
+}
+
+.card-title {
+    margin-bottom: 80px;
+    font-size: 5rem; 
+    color: #333; 
+}
+
+
+.card ul li {
+    list-style: none; 
+    padding: 20px 0; 
+}
+
+
+.card a {
+    text-decoration: none; 
+    color: #007bff; 
+}
